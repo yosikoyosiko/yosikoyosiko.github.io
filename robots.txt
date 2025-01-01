@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+Sitemap: https://www.yoshiko.f5.si/sitemap.xml
